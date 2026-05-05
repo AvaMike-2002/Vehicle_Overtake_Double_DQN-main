@@ -1,0 +1,11 @@
+Training Statistics
+==================
+Total Episodes: 500
+Total Collisions: 0
+Collision Rate: 0.00%
+Total Lane Changes: 33795
+Avg Lane Changes/Episode: 67.59
+Final Epsilon: 0.229
+Best Reward: 0.98
+Avg Reward (last 20): 0.92
+Total Training Steps: 16442
